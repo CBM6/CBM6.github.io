@@ -21,6 +21,7 @@
   >3. Type your registered Email Adress and password, then click **Sign in** button
   ![signin](/assets/signin.gif)
   - Cool! You are using github now. Github is one of Distributed Version Control Systems(DVCS). DVCS is the most popular system for 
+
 **2. Creat a new repository:**
   >1. After logining in the account, website will automatically directs to main page.
   >2. Click **New** Button which is green button on left panel.
