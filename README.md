@@ -38,7 +38,7 @@ Today is a good day
   >3. Click **Choose a theme** button to select a theme you prefer, then click **Select theme** button
   >4. Scroll down until you see **Commit changes** button, click it.
   >5. A new branch called "**gh-pages**" is created and you are in this branch now.
-  ![settheme](/assets/upload.gif)
+  ![settheme](/assets/settheme.gif)
 
 **4. Upload your resume:**
   >1. Click **pen icon** which is located on right-up area. ![uploade](/assets/pen.png)
