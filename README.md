@@ -11,8 +11,8 @@
 **1. Sign in your account on github page:**
   >1. Go to main page of [github](https://github.com/)
   >2. Click **Sign in** button which is located on right-up corner of the page.
-  >3. Type your account name and password, then click **Sign in** button
-  ![signin_demo](/assets/signin.gif)
+  >3. Type your registered Email Adress and password, then click **Sign in** button
+  ![signin](/assets/signin.gif)
 
 Today is a good day
 
@@ -23,4 +23,33 @@ Today is a good day
   >4. Click **Public** check box to select if necessary.
   >5. Click **Add a README file** check box to select it.
   >6. Click **Create repository** button which is located at bottom of the page.
-  ![signin_demo](/assets/creatrep.gif)
+  ![creatre](/assets/creatrep.gif)
+  
+**3. Set up a theme for your resume:**
+  >1. Click **Setting** to access setting menu
+  >2. Scroll down until you see **Github page** menu
+  >3. Click **Choose a theme** button to select a theme you prefer, then click **Select theme** button
+  >4. Scroll down until you see **Commit changes** button, click it.
+  >5. A new branch called "**gh-pages**" is created and you are in this branch now.
+  ![settheme](/assets/upload.gif)
+
+**4. Upload your resume:**
+  >1. Click **pen icon** which is located on right-up area. ![uploade](/assets/pen.png)
+  >2. Scroll down until you see **Commit changes** button, click it.
+  ![upload](/assets/upload.gif)
+
+**5. Check your resume online:**
+  >1. Wait for some minutes. Servers need time to set up your online resume.
+  >2. Click **Setting** to access setting menu
+  >3. Scroll down until you see **github page**
+  >4. There is a message:"**Your site is published at https://cbm6.github.io/chenboma.github.io/**"
+  >5. Click the link or directly type the address in the address bar. Format is:"Your_account_name.github.io/your_repository_name"
+  ![result](/assets/result.gif)
+***
+## Authors and Acknowledgment:
+- [Markdown tutorial](https://www.markdowntutorial.com/)
+- [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+- [Set up Markdown Editor](https://www.portent.com/blog/copywriting/content-strategy/atom-markdown.htm)
+***
+##FAQs
+  > 1.
