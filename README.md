@@ -11,8 +11,8 @@
   >5. [FAQs](#FAQs)
 ***
 ## Prerequisites
-1. Github account
-2. A resume formatted in [Markdown](https://www.markdowntutorial.com/)
+  >1. Github account
+  >2. A resume formatted in [Markdown](https://www.markdowntutorial.com/)
 ***
 ## Instructions:
 **1. Sign in your account on github page:**
