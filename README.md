@@ -42,8 +42,9 @@ Today is a good day
 
 **4. Upload your resume:**
   >1. Click **pen icon** which is located on right-up area. ![uploade](/assets/pen.png)
-  >2. Scroll down until you see **Commit changes** button, click it.
-  >3. If you want to edit your resume on github page, please edit it in **ph-pages** branch.
+  >2. Delete all contents in the file, then paste your resume
+  >3. Scroll down until you see **Commit changes** button, click it.
+  >4. If you want to edit your resume on github page, please edit it in **ph-pages** branch.
   ![upload](/assets/upload.gif)
 
 **5. Check your resume online:**
