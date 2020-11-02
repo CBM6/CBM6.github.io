@@ -6,7 +6,7 @@
 ## Table of Contents:
   >1. [Prerequisites](#Prerequisites)
   >2. [Instructions](#Instructions)
-  >3. [More resources](#More_resources)
+  >3. [More resources](#More resources)
   >4. [Authors and Acknoledgments](#Authors_and_Acknowledgments)
   >5. [FAQs](#FAQs)
 ***
