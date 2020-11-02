@@ -3,6 +3,9 @@
 1. This **README** will help you host your resume on github page step by step.
 2. Principles, from [Modern Technical Writing: An Introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS), are applied to this **README**.
 ***
+## Table of Contents:
+  >1. [Prequisites](#Prequisites)
+***
 ## Prerequisites
 1. Github account
 2. A resume formatted in [Markdown](https://www.markdowntutorial.com/)
@@ -36,6 +39,7 @@ Today is a good day
 **4. Upload your resume:**
   >1. Click **pen icon** which is located on right-up area. ![uploade](/assets/pen.png)
   >2. Scroll down until you see **Commit changes** button, click it.
+  >3. If you want to edit your resume on github page, please edit it in **ph-pages** branch.
   ![upload](/assets/upload.gif)
 
 **5. Check your resume online:**
@@ -46,10 +50,18 @@ Today is a good day
   >5. Click the link or directly type the address in the address bar. Format is:"Your_account_name.github.io/your_repository_name"
   ![result](/assets/result.gif)
 ***
-## Authors and Acknowledgment:
+## More resources:
 - [Markdown tutorial](https://www.markdowntutorial.com/)
 - [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - [Set up Markdown Editor](https://www.portent.com/blog/copywriting/content-strategy/atom-markdown.htm)
 ***
+## Authors and Acknowledgments:
+- Andrew Ette.
 ##FAQs
-  > 1.
+  > 1.Why is Markdown better than a word processor?
+  - First, operations of **word processors** are _more_ complicated. It requires people more time to write an documentation. I will take **Microsoft Word** as an example, because **Microsoft Word** is the most famous word processor. For example, if you wanted to change a heading's size. In **Microsoft Word**, you need to select that heading and choose a proper font size and font style for it. In **Markdown**, you just change number of "#" before the heading. Secondly, independency. People could edit **Markdown** file on many platforms(text editor, atom, Xcode, etc). **Microsoft Word file** can only be edited on **Microsoft Word file**. Thirdly, **Markdown file** can directly turn into **html file** and be hosted online. So, **Markdown** is better than **a word processor**.
+  
+  >2. Why is my resume not showing up?
+  - It is mendtioned in **instruction** section. Server needs several minutes to apply theme to your resume and host your resume online.
+  - If your resume was still not showing up, check your internet.
+  - If you followed the instruction and your internet is fine, there might be a problem on server side. You can check github status over [here](https://www.githubstatus.com/).
