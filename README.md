@@ -8,7 +8,10 @@
 2. A resume formatted in [Markdown](https://www.markdowntutorial.com/)
 ***
 ## Instructions:
-1. Sign in your account on github page:
+**1. Sign in your account on github page:**
   >1. Go to main page of [github](https://github.com/)
   >2. Click **Sign in** button which is located on right-up corner of the page.
   >3. Type your account name and password, then click **Sign in** button
+  ![signin_demo](/assets/signin.gif)
+  
+**2. Creat a new repository:**
