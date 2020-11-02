@@ -13,5 +13,14 @@
   >2. Click **Sign in** button which is located on right-up corner of the page.
   >3. Type your account name and password, then click **Sign in** button
   ![signin_demo](/assets/signin.gif)
-  
+
+Today is a good day
+
 **2. Creat a new repository:**
+  >1. After logining in the account, website will automatically directs to main page.
+  >2. Click **New** Button which is green button on left panel.
+  >3. Type your repository name. Format is "your_won_name.github.io"
+  >4. Click **Public** check box to select if necessary.
+  >5. Click **Add a README file** check box to select it.
+  >6. Click **Create repository** button which is located at bottom of the page.
+  ![signin_demo](/assets/creatrep.gif)
