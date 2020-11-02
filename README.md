@@ -4,7 +4,7 @@
 2. Principles, from [Modern Technical Writing: An Introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS), are applied to this **README**.
 ***
 ## Table of Contents:
-  >1. [Prequisites](#Prequisites)
+  >1. [Prerequisites](#Prerequisites)
 ***
 ## Prerequisites
 1. Github account
