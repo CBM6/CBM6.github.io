@@ -64,9 +64,9 @@ Today is a good day
 - Andrew Ette.
 ## FAQs
   > 1.Why is Markdown better than a word processor?
-  - First, operations of **word processors** are _more_ complicated. It requires people more time to write an documentation. I will take **Microsoft Word** as an example, because **Microsoft Word** is the most famous word processor. For example, if you wanted to change a heading's size. In **Microsoft Word**, you need to select that heading and choose a proper font size and font style for it. In **Markdown**, you just change number of "#" before the heading. Secondly, independency. People could edit **Markdown** file on many platforms(text editor, atom, Xcode, etc). **Microsoft Word file** can only be edited on **Microsoft Word file**. Thirdly, **Markdown file** can directly turn into **html file** and be hosted online. So, **Markdown** is better than **a word processor**.
+  >- First, operations of **word processors** are _more_ complicated. It requires people more time to write an documentation. I will take **Microsoft Word** as an example, because **Microsoft Word** is the most famous word processor. For example, if you wanted to change a heading's size. In **Microsoft Word**, you need to select that heading and choose a proper font size and font style for it. In **Markdown**, you just change number of "#" before the heading. Secondly, independency. People could edit **Markdown** file on many platforms(text editor, atom, Xcode, etc). **Microsoft Word file** can only be edited on **Microsoft Word file**. Thirdly, **Markdown file** can directly turn into **html file** and be hosted online. So, **Markdown** is better than **a word processor**.
   
   >2. Why is my resume not showing up?
-  - It is mendtioned in **instruction** section. Server needs several minutes to apply theme to your resume and host your resume online.
-  - If your resume was still not showing up, check your internet.
-  - If you followed the instruction and your internet is fine, there might be a problem on server side. You can check github status over [here](https://www.githubstatus.com/).
+  >- It is mendtioned in **instruction** section. Server needs several minutes to apply theme to your resume and host your resume online.
+  >- If your resume was still not showing up, check your internet.
+  >- If you followed the instruction and your internet is fine, there might be a problem on server side. You can check github status over [here](https://www.githubstatus.com/).
