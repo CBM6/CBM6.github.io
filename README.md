@@ -5,6 +5,10 @@
 ***
 ## Table of Contents:
   >1. [Prerequisites](#Prerequisites)
+  >2. [Instructions](#Instructions)
+  >3. [More resources](#More_resources)
+  >4. [Authors and Acknoledgments](#Authors_and_Acknowledgments)
+  >5. [FAQs](#FAQs)
 ***
 ## Prerequisites
 1. Github account
@@ -57,7 +61,7 @@ Today is a good day
 ***
 ## Authors and Acknowledgments:
 - Andrew Ette.
-##FAQs
+## FAQs
   > 1.Why is Markdown better than a word processor?
   - First, operations of **word processors** are _more_ complicated. It requires people more time to write an documentation. I will take **Microsoft Word** as an example, because **Microsoft Word** is the most famous word processor. For example, if you wanted to change a heading's size. In **Microsoft Word**, you need to select that heading and choose a proper font size and font style for it. In **Markdown**, you just change number of "#" before the heading. Secondly, independency. People could edit **Markdown** file on many platforms(text editor, atom, Xcode, etc). **Microsoft Word file** can only be edited on **Microsoft Word file**. Thirdly, **Markdown file** can directly turn into **html file** and be hosted online. So, **Markdown** is better than **a word processor**.
   
