@@ -16,9 +16,9 @@
 ***
 ## Instructions:
 **1. Sign in your account on github page:**
-  >1. Go to main page of [github](https://github.com/)
-  >2. Click **Sign in** button which is located on right-up corner of the page.
-  >3. Type your registered Email Adress and password, then click **Sign in** button
+  >1. Go to the main page of [Github](https://github.com/)
+  >2. Click the **Sign-in** button which locates on right-up corner of the page.
+  >3. Type your registered Email Adress and password, then click the **Sign-in** button
   ![signin](/assets/signin.gif "Sign in github")
   - Cool! You are using github now. Github is one of Distributed Version Control Systems(**DVCS**). **DVCS** is the most popular system for technical writter and programmers. We will discuss why in next step.
 
