@@ -19,7 +19,7 @@
   >1. Go to main page of [github](https://github.com/)
   >2. Click **Sign in** button which is located on right-up corner of the page.
   >3. Type your registered Email Adress and password, then click **Sign in** button
-  ![signin](/assets/signin.gif"Sign in github")
+  ![signin](/assets/signin.gif "Sign in github")
   - Cool! You are using github now. Github is one of Distributed Version Control Systems(**DVCS**). **DVCS** is the most popular system for technical writter and programmers. We will discuss why in next step.
 
 **2. Creat a new repository:**
@@ -29,7 +29,7 @@
   >4. Click **Public** check box to select if necessary.
   >5. Click **Add a README file** check box to select it.
   >6. Click **Create repository** button which is located at bottom of the page.
-  ![creatre](/assets/creatrep.gif"Creat a new repository")
+  ![creatre](/assets/creatrep.gif "Creat a new repository")
   - When you creat a new repository. You need to select **public** and **Add a README file**. Public will allow others read your document and contribute their changes to the document if they have permissions. This is a huge benefits of **DVCS**. **DVCS** allows people to work on the same documentation cocurrently and offline. People could merge their work by using **DVCS**. 
   - **Add a README file** option will add a **MARKDOWN** file named "README" into your root branch. Every repository should have this file in their root branch. The file will introduce your production or documentation, tell people how to contribute their changes to your repository and how to work with your repository offline.
   
@@ -39,7 +39,7 @@
   >3. Click **Choose a theme** button to select a theme you prefer, then click **Select theme** button
   >4. Scroll down until you see **Commit changes** button, click it.
   >5. A new branch called "**gh-pages**" is created and you are in this branch now.
-  ![settheme](/assets/settheme.gif"Set theme for static website")
+  ![settheme](/assets/settheme.gif "Set theme for static website")
   - At this step, we are building a static website for you. Static websites do not need any server-side application. Static websites also do not need any database on server side, because it is static. People do not need to install any application. So, static website is fast, cheap and secure. If you want to build a complex static website, a static website generator is highly recommeneded. The generator will build static website by using your content and HTML and CSS.
   - We are using **Jekyll** over here, which is supported on github page. If you want to edit your static website. You can change your content in **index.mb** under **gh-pages**. Repeat **step3** to reslect a theme of your static website. More generators are introduced in the [book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
@@ -48,7 +48,7 @@
   >2. Delete all contents in the file, then paste your resume
   >3. Scroll down until you see **Commit changes** button, click it.
   >4. If you want to edit your resume on github page, please edit it in **ph-pages** branch.
-  ![upload](/assets/upload.gif"Upload your resume")
+  ![upload](/assets/upload.gif "Upload your resume")
   - You may alreay noticed, all documentation is using **Markdown** language. Why? First of all, you could edit **MARKDOWN** file on many platforms(Atom, text editor, Xcode,etc). Secondly, **Markdown** language could directly translated into HTML. It is convenience when you build static website. **MARKDOWN** is easy to learn. Writters could spend less time on writting a documentation with **MARKDOWN** language. This is what the most writters want.
   
 **5. Check your resume online:**
@@ -57,7 +57,7 @@
   >3. Scroll down until you see **github page**
   >4. There is a message:"**Your site is published at https://cbm6.github.io/chenboma.github.io/**"
   >5. Click the link or directly type the address in the address bar. Format is:"Your_account_name.github.io/your_repository_name"
-  ![result](/assets/result.gif"Check your online resume")
+  ![result](/assets/result.gif "Check your online resume")
   - Using tools and models from the book allows people to host their online resume easily. There are more tools and models in the book. These tools and models make the books become very helpful.
 ***
 ## More resources:
