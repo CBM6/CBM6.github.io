@@ -23,12 +23,12 @@
   - Cool! You are using Github now. Github is one of the Distributed Version Control Systems(**DVCS**). **DVCS** is the most popular system for technical writers and programmers. We will discuss why in the next step.
 
 **2. Creat a new repository:**
-  >1. After logining in the account, website will automatically directs to main page.
-  >2. Click **New** Button which is green button on left panel.
+  >1. After login into the account, website will automatically directs to main page.
+  >2. Click **New** Button which is a green button on the left panel.
   >3. Type your repository name. Format is "your_won_name.github.io"
-  >4. Click **Public** check box to select if necessary.
-  >5. Click **Add a README file** check box to select it.
-  >6. Click **Create repository** button which is located at bottom of the page.
+  >4. Click the **Public** check box to select if necessary.
+  >5. Click the **Add a README file** check box to select it.
+  >6. Click the **Create repository** button which is located at bottom of the page.
   ![creatre](/assets/creatrep.gif "Creat a new repository")
   - When you creat a new repository. You need to select **public** and **Add a README file**. Public will allow others read your document and contribute their changes to the document if they have permissions. This is a huge benefits of **DVCS**. **DVCS** allows people to work on the same documentation cocurrently and offline. People could merge their work by using **DVCS**. 
   - **Add a README file** option will add a **MARKDOWN** file named "README" into your root branch. Every repository should have this file in their root branch. The file will introduce your production or documentation, tell people how to contribute their changes to your repository and how to work with your repository offline.
