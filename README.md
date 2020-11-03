@@ -20,7 +20,7 @@
   >2. Click the **Sign-in** button which locates on right-up corner of the page.
   >3. Type your registered Email Adress and password, then click the **Sign-in** button
   ![signin](/assets/signin.gif "Sign in github")
-  - Cool! You are using github now. Github is one of Distributed Version Control Systems(**DVCS**). **DVCS** is the most popular system for technical writter and programmers. We will discuss why in next step.
+  - Cool! You are using Github now. Github is one of the Distributed Version Control Systems(**DVCS**). **DVCS** is the most popular system for technical writers and programmers. We will discuss why in the next step.
 
 **2. Creat a new repository:**
   >1. After logining in the account, website will automatically directs to main page.
