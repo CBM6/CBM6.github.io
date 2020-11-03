@@ -49,7 +49,7 @@
   >3. Scroll down until you see **Commit changes** button, click it.
   >4. If you want to edit your resume on github page, please edit it in **ph-pages** branch.
   ![upload](/assets/upload.gif)
-  - 
+  - You may alreay noticed, all documentation is using **Markdown** language. Why? First of all, you could edit **MARKDOWN** file on many platforms(Atom, text editor, Xcode,etc). Secondly, **Markdown** language could directly translated into HTML. It is convenience when you build static website. **MARKDOWN** is easy to learn. Writters could spend less time on writting a documentation with **MARKDOWN** language. This is what the most writters want.
   
 **5. Check your resume online:**
   >1. Wait for some minutes. Servers need time to set up your online resume.
@@ -58,6 +58,7 @@
   >4. There is a message:"**Your site is published at https://cbm6.github.io/chenboma.github.io/**"
   >5. Click the link or directly type the address in the address bar. Format is:"Your_account_name.github.io/your_repository_name"
   ![result](/assets/result.gif)
+  - Using tools and models from the book allows people to host their online resume easily. There are more tools and models in the book. These tools and models make the books become very helpful.
 ***
 ## More resources:
 - [Markdown tutorial](https://www.markdowntutorial.com/)
