@@ -28,3 +28,15 @@ Phone: 204-899-1122
 - Computer games
 - Reading novels
 - Watching movies
+
+### Products:
+- https://github.com/AbirAahammed/E-card
+- https://github.com/CBM6/webapp
+- https://github.com/TianleiWang0414/Tag
+- https://github.com/TianleiWang0414/DODO
+- https://github.com/JoshuaDueck/COMP-4020-Task-Alarm
+### GoodAt:
+- Operating Systems	
+- Software Engineering	 	
+- Database Implementation
+- Computer Graphics 2
